@@ -1,0 +1,14 @@
+{
+  "tests": [
+  {
+    "name": "Test 1",
+    "setup": "javac Test.java",
+    "run": "java Test",
+    "comparison": "included",
+    "input": "",
+    "output": "All test cases have passed",
+    "timeout": 10,
+    "points": 15
+  }
+  ]
+}
